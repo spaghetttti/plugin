@@ -1,0 +1,1 @@
+!function(){"use strict";tinymce.PluginManager.add("generated-tinymce",function(t,e){t.ui.registry.addButton("generated-tinymce",{text:"generated-tinymce button",onAction:function(){t.setContent("<p>content added from generated-tinymce</p>")}})})}();
